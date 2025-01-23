@@ -81,9 +81,10 @@ body {
 }
 
 #imagem {
-    width: 100%;
-    max-width: 500px;
-    height: auto;
+    width: 510px;
+    height: 605px;
+    top: 781px;
+    left: 30px;
     border-radius: 30px;
 }
 
